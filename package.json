@@ -37,6 +37,7 @@
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
     "@babel/preset-react": "^7.12.5",
+    "@storybook/addon-essentials": "^6.2.8",
     "@storybook/react": "^6.2.7",
     "auto": "^10.3.0",
     "babel-loader": "^8.1.0",
@@ -53,9 +54,9 @@
     "@storybook/components": "^6.2.7",
     "@storybook/core-events": "^6.2.7",
     "@storybook/theming": "^6.2.7",
+    "miragejs": "*",
     "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0",
-    "miragejs": "*"
+    "react-dom": "^16.8.0 || ^17.0.0"
   },
   "peerDependenciesMeta": {
     "react": {
